@@ -1,4 +1,8 @@
 # Trabajo de Tecnología de la Programación 2 UCM
-- Progrmación Orientada a Objetos en Java
-- Implementación de Patrones (Factory, Observer, Singleton, etc)
-- Interfaz de Usuario con JSwing
+- OOP
+- Generics and collections
+- Introduction to Object Oriented
+- Design. Patterns.(Factory, Observer, Singleton, etc)
+- Graphical User Interface
+- Model View Controller Threads
+- Introduction to programming with threads
